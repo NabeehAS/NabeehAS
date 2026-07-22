@@ -25,7 +25,7 @@ The project uses deterministic LibCST code transformations instead of unsafe reg
 [View project](https://github.com/NabeehAS/feature-flag-codemod)
 ---
 
-### Lingo Lamp — Generative AI Language Learning App
+### LingoLamp — Generative AI Language Learning App
 A mobile language-learning app that uses a chatbot, translation, grammar feedback, and flashcards to help users practice more naturally.
 
 My main ownership was the chatbot flow and its connection to the flashcard system. One interesting challenge was extracting specific words and translations from natural LLM responses, which I solved using hidden markers that allowed the app to save vocabulary items with one tap.
