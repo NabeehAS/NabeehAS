@@ -1,6 +1,6 @@
 # Hi, I'm Nabeeh 👋
 
-I'm a Computer Science student at the Technion, graduating in August 2026, with hands-on experience in software engineering, AI-assisted development, full-stack applications, machine learning, and developer tooling.
+I'm a Computer Science student at the Technion, graduating in February 2027, with hands-on experience in software engineering, AI-assisted development, full-stack applications, machine learning, and developer tooling.
 
 I enjoy building practical software that solves real problems, especially projects that combine clean engineering, automation, testing, and modern AI tools.
 
